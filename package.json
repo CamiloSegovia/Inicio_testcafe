@@ -1,0 +1,12 @@
+{
+    "name": "Workshop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test:chrome": "testcafe chrome tests/suites",
+        "test:safari":"testcafe safari test/suites"
+    },
+    "author": "",
+    "license": "ESC"
+}
